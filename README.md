@@ -6,12 +6,12 @@ The course coveres the following topics:
 * Strings
 * Numbers
 * Booleans
-- Methods and Conditionals
-- Ranges
-- Arrays
-- Hashes
-- Blocks, Procs, and Lambdas
-- Dates and times
-- File Input and Output
-- Regular Expression
-- Classes, Modules, and Inheritance
+* Methods and Conditionals
+* Ranges
+* Arrays
+* Hashes
+* Blocks, Procs, and Lambdas
+* Dates and times
+* File Input and Output
+* Regular Expression
+* Classes, Modules, and Inheritance
