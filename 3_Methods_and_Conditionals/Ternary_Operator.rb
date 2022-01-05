@@ -5,3 +5,7 @@
 # end
 
 puts 1 < 2 ? "Yes, it is!" : "No, it is not!
+
+pokemon = "Pickachu"
+
+puts pokemon == "Charizard" ? "Fireball!" : "That is not Charizard!"
