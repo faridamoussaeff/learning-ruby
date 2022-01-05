@@ -21,6 +21,6 @@ def meal_plan(time_of_week, time_of_day)
 end
 
 p meal_plan("weekday", "lunch")
-p meal_plan("weekend", "breakfast")
+p meal_plan("weekend", "breakfast)
 p meal_plan("weekend", "dinner")
 
